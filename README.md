@@ -10,7 +10,7 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://m.facebook.com/sidney.oliveira.7906)
 
-![Levy GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneylevy&show_icons=true&theme=tokyonight)
+![Levy GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneylevy&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneylevy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
